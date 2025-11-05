@@ -1,0 +1,11 @@
+../Core/Src/main.c:67:5:main	80	static
+../Core/Src/main.c:140:6:SystemClock_Config	88	static
+../Core/Src/main.c:183:6:SDCard_ShowInfo	48	static
+../Core/Src/main.c:212:6:SDCard_ShowCSD	56	static
+../Core/Src/main.c:234:6:SDCard_ShowCID	40	static
+../Core/Src/main.c:256:6:SDCard_ShowStatus	32	static
+../Core/Src/main.c:278:6:SDCard_EraseBlocks	24	static
+../Core/Src/main.c:307:6:SDCard_TestWrite	560	static
+../Core/Src/main.c:346:6:SDCard_TestRead	544	static
+../Core/Src/main.c:381:5:__io_putchar	16	static
+../Core/Src/main.c:392:6:Error_Handler	4	static,ignoring_inline_asm

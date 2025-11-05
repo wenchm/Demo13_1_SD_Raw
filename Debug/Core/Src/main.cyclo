@@ -1,0 +1,11 @@
+../Core/Src/main.c:67:5:main	5
+../Core/Src/main.c:140:6:SystemClock_Config	3
+../Core/Src/main.c:183:6:SDCard_ShowInfo	2
+../Core/Src/main.c:212:6:SDCard_ShowCSD	2
+../Core/Src/main.c:234:6:SDCard_ShowCID	2
+../Core/Src/main.c:256:6:SDCard_ShowStatus	2
+../Core/Src/main.c:278:6:SDCard_EraseBlocks	3
+../Core/Src/main.c:307:6:SDCard_TestWrite	5
+../Core/Src/main.c:346:6:SDCard_TestRead	4
+../Core/Src/main.c:381:5:__io_putchar	1
+../Core/Src/main.c:392:6:Error_Handler	1
